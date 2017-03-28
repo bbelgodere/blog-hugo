@@ -1,4 +1,4 @@
-baseurl = "http://bbelgodere.github.io"
+baseurl = "https://bbelgodere.github.io"
 languageCode = "en-us"
 title = "Deep Learning and Double IPAs"
 theme = "blackburn"
