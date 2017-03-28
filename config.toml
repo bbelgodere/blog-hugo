@@ -15,8 +15,8 @@ paginate = 10
   # Shown in the home page
   subtitle = "Tools to tackle big problems"
   brand = "@bbelgodere"
-  googleAnalytics = "Your Google Analytics tracking ID"
-  disqus = "Your Disqus shortname"
+  googleAnalytics = "UA-89408391-1"
+  #disqus = "Your Disqus shortname"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
