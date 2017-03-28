@@ -37,7 +37,7 @@ paginate = 10
     url = "/post/"
     [[menu.main]]
       name = "Projects"
-      pre = "<i class='fa fa-file-code fa-fw'></i>"
+      pre = "<i class='fa fa-file-code-o fa-fw'></i>"
       weight = 2
       identifier = "projects"
       url = "/projects/"
