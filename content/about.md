@@ -5,5 +5,6 @@ sidemenu = "true"
 description = "About me and this site"
 +++
 
-I'm a software engineer at IBM Research.
+Hi, My name is Brian and I'm a software engineer at IBM Research. I spend most of my time working on the Cognitive Computing Cluster. An High Performance Computing environment outfitted with Nvidia GPUS optimized for Deep Learning.
+
 Thanks for reading!
