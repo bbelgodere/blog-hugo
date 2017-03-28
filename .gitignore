@@ -1,1 +1,8 @@
-themes
+# Hugo default output directory
+/public
+/themes
+
+# ignore logs
+*.logs
+# OSX
+.DS_Store
